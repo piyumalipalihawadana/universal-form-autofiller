@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Amina",
+        "background": "Final-year Data Science student passionate about ML",
+        "goal": "Wants to become an AI researcher at Google"
+    },
+    {
+        "name": "Ravi",
+        "background": "Software Engineering undergraduate focused on DevOps",
+        "goal": "Hopes to build cloud-native infrastructure at Meta"
+    },
+    {
+        "name": "Sara",
+        "background": "IT student with interest in cloud computing",
+        "goal": "Cloud Solutions Architect"
+    }
+]

@@ -1,0 +1,21 @@
+You are helping a university student fill out a form. Answer the following question appropriately.
+
+Student Info:
+Name: {{name}}
+Background: {{background}}
+Career Goal: {{goal}}
+
+Question: "{{question}}"
+{% if options %}
+Options: {{options}}
+
+Instructions:
+- Choose the most realistic and suitable option from the list.
+- If multiple selections are allowed, return a comma-separated list.
+{% endif %}
+{% if not options %}
+Instructions:
+- Write a realistic, human-sounding sentence or phrase.
+{% endif %}
+
+Do not explain your answer. Only return the final answer.

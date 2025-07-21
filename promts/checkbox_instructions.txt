@@ -1,0 +1,5 @@
+This is a multi-select question. Choose all applicable options based on the student's background and goal.
+
+Return your answer as a comma-separated list.
+
+Only use values from the given options.
